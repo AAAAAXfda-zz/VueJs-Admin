@@ -19,11 +19,6 @@ Vue Vben Admin is a free and open source middle and back-end template. Using the
 - **Mock Server** Built-in mock data scheme
 - **Authority** Built-in complete dynamic routing permission generation scheme.
 - **Component** Multiple commonly used components are encapsulated twice
-
-## 预览
-
-- [vue-vben-admin](https://vvbin.cn/next/) - Full version Chinese site
-- [vben-admin-thin-next](https://vvbin.cn/thin/next/) - Simplified Chinese site
 - 
 ### Use Gitpod
 
